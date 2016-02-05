@@ -7,6 +7,8 @@ to build any web application. These projects often involve common, repetitive ta
 Ember.js does for you - all you need to think about are your web app's awesome features 
 and slick design.
 
+**Hey Imanuel, this is a test paragraph. I'm experimenting with editing work directly in your repo to see how this works (apparently doing this creates a pull request automatically). You can delete this whenever.**
+
 - [Website](http://emberjs.com)
 - [Guides](http://guides.emberjs.com)
 - [API](http://emberjs.com/api)
